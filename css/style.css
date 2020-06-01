@@ -176,7 +176,7 @@ body{
         font-weight: bold;
     }
     .jumbotron{
-        background-image: url(/img/1.png);
+         background-color:"#71451b";
         background-size: cover;
          height: 887px;
          margin-top: -75px;      
