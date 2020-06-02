@@ -13,7 +13,7 @@ body{
 }
 
 .jumbotron{
-    background-color:"#71451b";
+    background-color:#71451b;
     background-size: cover;
     height: 550px;
      
@@ -176,7 +176,7 @@ body{
         font-weight: bold;
     }
     .jumbotron{
-         background-color:"#71451b";
+         background-color:#71451b;
         background-size: cover;
          height: 887px;
          margin-top: -75px;      
