@@ -164,7 +164,7 @@ body{
 @media(min-width:992px){
     
     .navbar{
-        background-color: #37281C;
+        background-color: #37281C !important;
     }
  .nav-link{
         color: #fafafa !important;
